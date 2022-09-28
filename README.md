@@ -2,13 +2,12 @@
 
 **`Digital Craftsman (Developer/Founder/Operator)`**
 
-I'm an passionate full-stack developer and operator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. With RKlaud i want to change the way of digital life and give everyone the opportunity to get digital and life with the advantages of it.
+I'm an passionate full-stack developer and operator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. With [RKlaud](https://www.rklaud.com) i want to change the way of digital life and give everyone the opportunity to get digital and life with the advantages of it.
 
 ---
 
 ### 🧰 Languages and Tools
 
-<div>
 <img align="left" alt="Android Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 <img align="left" alt="Ansible" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
@@ -57,8 +56,8 @@ I'm an passionate full-stack developer and operator building my version of the d
 <img align="left" alt="Webpack" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
 <img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 <img align="left" alt="Prometheus" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />
- </div>
-<br />
+
+<br /><br /><br /><br /><br /><br />
 
 #
 
