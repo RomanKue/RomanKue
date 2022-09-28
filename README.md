@@ -9,6 +9,8 @@ I'm an indie full-stack developer and content creator building my version of the
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/RomanKue?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/RomanKue?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/RomanKue?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <a href="https://api.github.com/search/commits?q=author:RomanKue&sort=author-date&order=desc&page=1">
+         <img alt="total commits" title="Total commits on Github" src="https://img.shields.io/github/commit-activity/m/RomanKue?style=for-the-badge"/></a>
    </p>
 
 ---
